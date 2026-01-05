@@ -1,0 +1,57 @@
+# שירה נדל"ן — Generative Engine Optimization Map
+
+> A נדל"ן business.
+
+---
+
+## Pages
+
+### Home
+https://-025142eb.zappy5.app
+נכסים נבחרים בקו הראשון לים. שירה נדל"ן מציעה דירות ווילות יוקרה באזור המרכז והשרון. ליווי אישי ומקצועי לאורך כל הדרך.
+
+### נכסים
+https://-025142eb.zappy5.app/properties
+עיינו באוסף הנכסים המובחר שלנו: דירות יוקרה, פנטהאוזים ווילות באזור המרכז והשרון. נכסים למכירה ולהשכרה בליווי מקצועי.
+
+### אודות
+https://-025142eb.zappy5.app/about
+הכירו את שירה - מומחית נדל"ן המתמחה בנכסי יוקרה באזור המרכז. ליווי אישי, מקצועיות וכנות בכל שלב. למעלה מ-12 שנות ניסיון.
+
+### צור קשר
+https://-025142eb.zappy5.app/contact
+צרו קשר עם שירה נדל"ן. זמינה לשיחה, ייעוץ והתאמה אישית של נכסים. טלפון, אימייל או טופס יצירת קשר - אנחנו כאן בשבילכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-025142eb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-025142eb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-025142eb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שירה נדל"ן
+שירה נדל"ן is a business in the נדל"ן industry.
+
+## Target Audience
+בעלי נכסים, אנשים שרוצים לשכור או לקנות נכסים
+
+## Industry
+נדל"ן
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-025142eb.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-025142eb.zappy5.app/robots.txt
